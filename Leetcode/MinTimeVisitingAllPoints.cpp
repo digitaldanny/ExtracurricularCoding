@@ -20,6 +20,6 @@ public:
 
     
     vector<int> Sol1(vector<int>& nums) {
-         
+        
     }
 };

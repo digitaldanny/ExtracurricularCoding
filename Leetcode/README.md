@@ -9,7 +9,13 @@ This file contains hyperlinks to all LeetCode problems I have completed.
 - [Running Sum of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array/) : [My Solution](https://github.com/digitaldanny/ExtracurricularCoding/blob/master/Leetcode/RunningSumOf1DArray.cpp)
 - [**Min Time Visiting All Points**](https://leetcode.com/problems/minimum-time-visiting-all-points/) : [My Solution](https://github.com/digitaldanny/ExtracurricularCoding/blob/master/Leetcode/MinTimeVisitingAllPoints.cpp)
 - [Convert Sorted Array To Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) : [My Solution](https://github.com/digitaldanny/ExtracurricularCoding/blob/master/Leetcode/ConvertSortedArrayToBinSearchTree.cpp)
+- [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) : [My Solution](https://github.com/digitaldanny/ExtracurricularCoding/blob/master/Leetcode/MergeTwoBinaryTrees.cpp)
+- [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/) : [My Solution](https://github.com/digitaldanny/ExtracurricularCoding/blob/master/Leetcode/ValidParenthesis.cpp)
 
 ## Medium
 
+- NA
+
 ## Hard
+
+- NA

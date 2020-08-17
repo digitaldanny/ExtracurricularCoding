@@ -43,7 +43,7 @@ public:
      * DESCRIPTION: Sol1
      * 
      * BIG O:
-     * f(n) = O(N^2)
+     * O(n)
      * 
      * PERFORMANCE:
      * Runtime - 4 ms, faster than 39.47% of c++ submissions

@@ -14,7 +14,7 @@ This file contains hyperlinks to all LeetCode problems I have completed.
 
 ## Medium
 
-- NA
+- [Rotate Image](https://github.com/digitaldanny/ExtracurricularCoding/blob/master/Leetcode/RotateImage.cpp) : [My Solution](https://github.com/digitaldanny/ExtracurricularCoding/blob/master/Leetcode/RotateImage.cpp)
 
 ## Hard
 

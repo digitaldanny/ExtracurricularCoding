@@ -34,6 +34,12 @@ public:
      * inner frame. 
      * 
      * Time Complexity: O(N)*O(N) = O(N^2) where N represents matrix dimensions (NxN). 
+     * W = word length-1
+     * N = height
+     * M = width
+     * O(N^2)*O(W) => O(N^2) [W is a constant]
+     * 
+     * Space Complexity: 
      * 
      * Performance
      * Runtime - 4 ms, faster than 66.23% of c++ submissions
